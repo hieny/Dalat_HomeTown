@@ -5,7 +5,6 @@ import styled from "styled-components";
 import { useRef } from "react";
 import styles from "../styles/styles.module.css";
 
-import { motion } from "framer-motion";
 import Picture from "../components/Picture";
 
 const Secion = styled.div`

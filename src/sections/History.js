@@ -12,7 +12,7 @@ import dalat_2 from "../assets/dalat_2.jpg";
 import dalat_3 from "../assets/dalat_3.jpg";
 import dalat_4 from "../assets/dalat_4.jpg";
 import dalat_5 from "../assets/dalat_5.jpg";
-import { useNavigate } from "react-router-dom";
+
 import Button from "../components/Button";
 
 const Left = styled.div`
@@ -30,15 +30,6 @@ const Left = styled.div`
 `;
 
 const Img = styled(motion.img)``;
-
-const Right = styled.div`
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  width: 60%;
-  height: 100vh;
-`;
 
 const Tittle = styled.p`
   font-size: ${(props) => props.theme.fontxxxl};
