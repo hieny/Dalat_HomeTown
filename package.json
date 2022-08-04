@@ -6,7 +6,7 @@
     "@fontsource/kaushan-script": "^4.5.8",
     "@fontsource/sirin-stencil": "^4.5.7",
     "@react-spring/parallax": "^9.4.5",
-    "@react-spring/web": "^9.4.5",
+    "@react-spring/web": "^9.5.0",
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
